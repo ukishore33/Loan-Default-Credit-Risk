@@ -172,7 +172,7 @@ open credit_risk_dashboard.html
 # 7. Run tests
 python -m pytest tests/
 ```
-
+##### [Live Demo](https://ukishore33.github.io/Loan-Default-Credit-Risk/credit_risk_dashboard.html)
 ---
 
 ## 🗂️ Key Files Explained
